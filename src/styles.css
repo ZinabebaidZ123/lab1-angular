@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+   
+   
+}
+:root{
+--main-color:#d3ad7f;
+--black:#13131a;
+--bg:#010103;
+--border:0.1rem solid rgba(255,255,255,0.3);
+
+}
+section{
+    padding-bottom: 6rem;
+    background-color: var(--black);
+    color: #ccc;
+}
+.btnClass{
+    padding: 1rem 0.5rem;
+    outline: none;
+    border: none;
+    color:#fff;
+    border-radius: 1rem;
+    color:#fff;
+    background-color: var(--main-color);
+}
+
+footer{
+    padding: 2rem 1rem;
+    background-color: var(--bg);
+    outline: none;
+}

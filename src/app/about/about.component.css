@@ -1,0 +1,12 @@
+.about{
+    padding-top: 3rem;
+    background-color: var(--bg);
+    padding: 3rem;
+}
+.h2{
+    margin: 3rem;
+}
+p{
+    margin: 3rem ;
+    line-height: 2rem;
+}

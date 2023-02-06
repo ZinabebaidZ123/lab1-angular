@@ -1,0 +1,14 @@
+.portfolio .content {
+  padding: 5rem;
+  text-align: center;
+  background-color: var(--main-color);
+}
+.portfolio h3::after{
+    content : "" ;
+   border-bottom: 2px solid black;
+   width:70%;
+   display: block;
+   margin: auto;
+   margin-top: 1rem;
+
+}
